@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * by: Musah and 
+ * by: Musah and Tish
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
